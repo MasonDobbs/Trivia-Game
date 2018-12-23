@@ -1,0 +1,91 @@
+#gameStart{
+    font-size: 100px;
+    width: auto;
+    text-align: center;
+    margin-top: 15%;
+    background-color: aqua;
+}
+
+body{
+    background-color: lightslategray;
+}
+
+#instructions{
+    text-align: center;
+    background-color: aqua;
+    font-size: 50px;
+    margin-left: auto;
+}
+
+.questions{
+    font-size: 50px;
+    padding-bottom: 50px;
+    color: white;
+}
+
+#triviaGame{
+    font-size: 60px;
+    color: white;
+    text-align: center;
+}
+
+#timer{
+    font-size: 20px;
+    background-color: red;
+    color: white;
+    position: fixed;
+    float: right;
+}
+
+#submit{
+    font-size: 30px;
+    background-color: blue;
+    color: white;
+    width: 10%;
+    margin: 3%;
+    text-align: center;
+}
+
+#score{
+    font-size: 50px;
+    text-align: center;
+    color: lightblue;
+    background-color: coral;
+    width: 20%;
+    margin-left: 45%; 
+}
+
+#correct{
+    font-size: 50px;
+    text-align: center;
+    color: lightblue;
+    background-color: coral;
+    width: 22%;
+    margin-left: 45%; 
+}
+
+#incorrect{
+    font-size: 50px;
+    text-align: center;
+    color: lightblue;
+    background-color: coral;
+    width: 25%;
+    margin-left: 45%; 
+}
+
+#playAgain{
+    font-size: 50px;
+    background-color: blue;
+    color: white;
+    width: 30%;
+    margin-left: 45%;
+    margin-top: -30%;
+    text-align: center;
+}
+
+.answers{
+    font-size: 20px;
+    background-color: aqua;
+    margin: 5px;
+    width: auto;
+}
